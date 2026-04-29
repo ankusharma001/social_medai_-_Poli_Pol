@@ -125,7 +125,10 @@ The model demonstrates effective detection of polarized and misleading content, 
 
 ## 👨‍💻 Authors
 
-* Ankush Sharma
+* Ankush Sharma - 221091283
+* Bhupesh Relan -  2210991447
+* Chirag Singla -2210991466
+* Anuj Anand - 2210991315
 
 
 
